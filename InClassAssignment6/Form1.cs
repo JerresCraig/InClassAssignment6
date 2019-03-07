@@ -22,8 +22,6 @@ namespace InClassAssignment6
         //Jerres Craig
         //This is my own work
 
-        //send link to github and submit link
-        //page 563 in textbook for UML
         //dice class
         class Dice
         {
